@@ -7,8 +7,6 @@ Terminate: DELETE
  */
 #include <windows.h>
 
-using namespace std;
-
 int main()
 {
   bool status;
